@@ -1,0 +1,46 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+h1{
+    text-align: center;
+    margin: 20px;
+    text-decoration: underline;
+    text-shadow: 5px 5px 5px red ;
+    color: rgb(53, 234, 122);
+}
+body{
+    background-color: rgb(252, 252, 253);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.row{
+    width: 100%;
+    height: 500px;
+    background-color: rgb(72, 152, 47);
+}
+.col{
+    width: 325px;
+    height: 400px;
+    background-color: rgb(7, 154, 66);
+    float: left;
+    margin: 20px;
+    box-shadow: 4px 5px 6px 7px rgb(116, 237, 98);
+    border-radius: 20px;
+
+}
+img{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    border: 2px ridge white;
+    padding: 2px;
+    margin-left: 110px;
+    margin-top: 20px;
+}
+h2{
+    text-align: center;
+}
+p{
+    text-align: justify;
+    margin: 4px 4px 4px 4px;
+}
